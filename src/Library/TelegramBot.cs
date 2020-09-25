@@ -8,7 +8,7 @@ namespace Library
     public class TelegramBot
     {
 
-        private const string TELEBRAM_BOT_TOKEN = "";
+        private const string TELEBRAM_BOT_TOKEN = "1229257854:AAGCrc4XpXme3H2pB74Y7Zr8sNnDzQvLJfM";
         private static TelegramBot instance;
         private ITelegramBotClient bot;
 
